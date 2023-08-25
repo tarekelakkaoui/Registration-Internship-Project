@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D15BB6D4-FF27-4B02-81E7-59951AFA97BF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tarek_web/Welcome_Page.aspx.designer.vb">
+    <Files>
+      <File FileName="Tarek_web/Welcome_Page.aspx" Line="67" Column="17" />
+      <File FileName="Tarek_web/Welcome_Page.aspx.vb" Line="7" Column="12" />
+      <File FileName="Tarek_web/Welcome_Page.aspx.designer.vb" Line="16" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tarek_web" expanded="True">
+            <Node name="Tarek_web" expanded="True">
+              <Node name="Welcome_Page.aspx" expanded="True">
+                <Node name="Welcome_Page.aspx.designer.vb" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tarek__web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

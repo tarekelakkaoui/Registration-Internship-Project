@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FBA8921B-6915-44FD-B20E-8989742D128E}|">
+  <MonoDevelop.Ide.ItemProperties.Tarek__Webserver PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web.config">
+    <Files>
+      <File FileName="WebService1.asmx" />
+      <File FileName="WebService1.asmx.vb" />
+      <File FileName="Web.config" Line="9" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tarek_Webserver" expanded="True">
+            <Node name="Tarek_Webserver" expanded="True">
+              <Node name="WebService1.asmx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
